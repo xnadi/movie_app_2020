@@ -19,7 +19,6 @@ function App() {
           추가되었다
           향상되었습니다.
           sssss
-
           dkgkgk
         </a>
       </header>
